@@ -1,0 +1,11 @@
+name: capture de drapeau
+version: 1.0
+description: deux équipes s'afronte et doivent raporter le drapeau adverse à leur base respective
+author: ludo
+ 
+main: com.trafalcraft.ludo.ctf.Main
+ 
+commands:
+  ctf:
+    description: commande du plugin ctf
+    aliases: []
